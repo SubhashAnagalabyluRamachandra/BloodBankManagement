@@ -1,4 +1,4 @@
-# Healthcare System Database Project
+# Blood Bank Management Database Project
 
 ## Overview
 This project involves the creation of a relational database schema for a healthcare system. It includes tables for patients, donors, and blood banks, with constraints, primary keys, and foreign keys to ensure data integrity. Sample data is inserted into the tables to demonstrate functionality. Additionally, a stored function named GetDonorsByReport is defined to retrieve donors based on their medical report status. SQL queries are provided to select and display information from the tables.
